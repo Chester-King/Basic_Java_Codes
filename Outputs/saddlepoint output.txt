@@ -1,0 +1,18 @@
+C:\J2SDK1~1.2_0\bin>javac saddlepoint.java
+Note: saddlepoint.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java saddlepoint
+enter rows ad then colums of array
+3
+2
+5
+1
+9
+3
+7
+4
+5 1
+9 3
+7 4
+Saddlepoint 1

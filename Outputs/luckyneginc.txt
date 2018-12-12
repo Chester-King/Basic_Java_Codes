@@ -1,0 +1,12 @@
+C:\J2SDK1~1.2_0\bin>javac luckyneginc.java
+Note: stack.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java luckyne
+entre no. of elements
+6
+entre elements
+2 5 -9 6 -4 -3
+entre position
+3
+lucky no.5

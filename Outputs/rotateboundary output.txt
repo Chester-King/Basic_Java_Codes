@@ -1,0 +1,27 @@
+C:\J2SDK1~1.2_0\bin>javac rotateboundary.java
+Note: rotateboundary.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java rotateboundary
+Input Size of row and column
+3
+3
+Input
+1
+2
+3
+4
+5
+6
+7
+8
+9
+input number of rotations
+1
+input sense of rotation
++ for positive rotation
+- for negative rotation
++
+4 1 2
+7 5 3
+8 9 6

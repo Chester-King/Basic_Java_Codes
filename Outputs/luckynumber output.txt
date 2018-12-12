@@ -1,0 +1,12 @@
+C:\J2SDK1~1.2_0\bin>javac luckynumber.java
+Note: luckynumber.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java luckynumber
+entre no. of elements
+5
+entre elements
+3 2 5 3 6 
+entre position
+2
+lucky no.3

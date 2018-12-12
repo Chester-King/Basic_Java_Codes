@@ -1,0 +1,11 @@
+Sample Input and Output:
+11
+6
+Taretesarts
+art
+arts
+tar
+tart
+tarts
+Tsar
+3

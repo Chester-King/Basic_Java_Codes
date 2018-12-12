@@ -1,0 +1,15 @@
+C:\J2SDK1~1.2_0\bin>javac lamp.java
+Note: stack.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java lamp
+4 4
+6
+0 0
+0 3
+3 0
+3 3
+2 2
+1 1
+Remove lamp(0,0)
+Remove lamp(3,3)

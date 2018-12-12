@@ -1,0 +1,32 @@
+enter 1 for convertion
+2 for calculations
+1
+enter the choice as FROM TO
+1-binary
+2-decimal
+3-octal
+4-hexadecimal
+1
+2
+Enter the no.
+10
+2
+enter 1 for convertion
+2 for calculations
+2
+enter the choice
+1-add
+2-subtract
+3_multiply
+4-divide
+1
+enter the base
+1-binary
+2-decimal
+3-octal
+4-hexadecimal
+1
+Enter the 2 no.
+101
+010
+111

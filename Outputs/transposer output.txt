@@ -1,0 +1,23 @@
+C:\J2SDK1~1.2_0\bin>javac transposer.java
+Note: transposer.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java transposer
+Enter rows and colums
+3
+2
+9
+1
+6
+4
+2
+8
+9
+7
+2 9 1
+6 4 2
+8 9 7
+
+2 6 8
+9 4 9
+1 2 7

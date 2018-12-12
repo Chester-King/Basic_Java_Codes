@@ -1,0 +1,11 @@
+C:\J2SDK1~1.2_0\bin>javac lowestfraction.java
+Note: stack.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java lowestfraction
+15/20
+3/4
+
+C:\J2SDK1~1.2_0\bin>java lowestfraction
+23/69
+1/3

@@ -1,0 +1,10 @@
+C:\J2SDK1~1.2_0\bin>javac term1.java
+Note: stack.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java term1
+2
+2 2
+3 2
+12
+22

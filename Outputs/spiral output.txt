@@ -1,0 +1,22 @@
+C:\J2SDK1~1.2_0\bin>javac spiral.java
+Note: spiral.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java spiral
+enter Dimension
+3
+3
+
+1  2  3
+8  9  4
+7  6  5
+
+C:\J2SDK1~1.2_0\bin>java spiral
+enter Dimension
+4
+3
+
+1  2  3
+10 11 4
+9  12 5
+8  7  6

@@ -1,0 +1,27 @@
+C:\J2SDK1~1.2_0\bin>javac stack.java
+Note: stack.java uses or overrides a deprecated API.
+Note: Recompile with -deprecation for details.
+
+C:\J2SDK1~1.2_0\bin>java stack
+enter size of array
+4
+enter choice 1.push and 2.pop 3.exit
+1
+23
+enter choice 1.push and 2.pop 3.exit
+1
+53
+enter choice 1.push and 2.pop 3.exit
+1
+45
+enter choice 1.push and 2.pop 3.exit
+2
+45
+enter choice 1.push and 2.pop 3.exit
+1
+34
+enter choice 1.push and 2.pop 3.exit
+2
+34
+enter choice 1.push and 2.pop 3.exit
+3
